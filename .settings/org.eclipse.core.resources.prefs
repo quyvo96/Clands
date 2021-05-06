@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/messages/messages.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/views/admin/cat/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/views/admin/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/views/auth/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/views/cland/cat.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/views/cland/contact.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/views/cland/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/views/cland/single.jsp=UTF-8
